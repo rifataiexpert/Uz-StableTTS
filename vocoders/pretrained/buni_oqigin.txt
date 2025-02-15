@@ -1,0 +1,2 @@
+downlaod vocoder folder: https://huggingface.co/spaces/KdaiP/StableTTS1.1/blob/main/vocoders/pretrained/firefly-gan-base-generator.ckpt
+                 vocos: https://huggingface.co/spaces/KdaiP/StableTTS1.1/blob/main/vocoders/pretrained/vocos.pt
